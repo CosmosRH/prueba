@@ -1,2 +1,2 @@
 # prueba
-Solo hares un hola world
+Solo hare un hola world
